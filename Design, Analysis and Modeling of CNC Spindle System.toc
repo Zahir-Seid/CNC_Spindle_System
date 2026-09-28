@@ -1,0 +1,59 @@
+\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background of the Study}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{8}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}General Objective}{8}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Specific Objectives}{8}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Scope and Limitation}{9}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Methodology Overview}{10}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Literature Review}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Spindle Mechanics and Bearing Dynamics}{12}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Electrical Drives in Machining}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Machining Dynamics and Control}{14}{section.2.3}%
+\contentsline {chapter}{\numberline {3}System Design}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Mechanical Design}{17}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Load Analysis}{17}{subsection.3.1.1}%
+\contentsline {subsubsection}{Design Cutting Scenario}{17}{subsubsection*.5}%
+\contentsline {subsubsection}{Material Removal Rate and Average Cutting Power}{18}{subsubsection*.6}%
+\contentsline {subsubsection}{Peak Cutting Force and Spindle Torque (Torsion)}{18}{subsubsection*.7}%
+\contentsline {subsubsection}{Overhung Load, Bending, and Bearing Reactions}{18}{subsubsection*.8}%
+\contentsline {subsubsection}{Pneumatic Drawbar Axial Load}{20}{subsubsection*.10}%
+\contentsline {subsubsection}{Motor Power and Torque Requirement}{21}{subsubsection*.11}%
+\contentsline {subsection}{\numberline {3.1.2}Design of Machine Elements}{21}{subsection.3.1.2}%
+\contentsline {paragraph}{Spindle housing and tool interface.}{21}{paragraph*.12}%
+\contentsline {paragraph}{Belleville washer stack.}{22}{paragraph*.13}%
+\contentsline {paragraph}{Drawbar and pull stud.}{22}{paragraph*.14}%
+\contentsline {paragraph}{Retention hardware.}{22}{paragraph*.15}%
+\contentsline {paragraph}{Spindle key.}{22}{paragraph*.17}%
+\contentsline {paragraph}{Floating puller assembly.}{23}{paragraph*.18}%
+\contentsline {subsection}{\numberline {3.1.3}Belt and Pulley Design}{23}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Bearing Design}{23}{subsection.3.1.4}%
+\contentsline {paragraph}{Radial (dynamic/fatigue) check -- cutting load.}{24}{paragraph*.19}%
+\contentsline {paragraph}{Supporting check -- housing shoulder.}{24}{paragraph*.20}%
+\contentsline {subsection}{\numberline {3.1.5}Shaft Design}{24}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Fabrication and Assembly}{26}{subsection.3.1.6}%
+\contentsline {section}{\numberline {3.2}CAD Modeling}{26}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Mechanical Design Analysis}{27}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Electrical \& Power Electronic System Design}{30}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Electrical Machine Selection}{30}{subsection.3.4.1}%
+\contentsline {paragraph}{Regional power compatibility.}{30}{paragraph*.26}%
+\contentsline {subsection}{\numberline {3.4.2}Power Electronics Drive Architecture}{31}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}PWM Generation Strategy}{31}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Sensor Configuration}{31}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Mathematical Modeling}{32}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Controller Design}{33}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Supervisory Logic Design}{34}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Simulation Results and Discussion}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Mechanical Analysis Results}{36}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Power \& Electrical Simulation Results}{36}{section.4.2}%
+\contentsline {section}{\numberline {4.3}System Dynamic \& PID Results}{37}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Integrated PLC Logic Simulation}{40}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Discussion}{41}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Conclusion and Recommendation}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusion}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Recommendations}{44}{section.5.2}%
+\contentsline {chapter}{\numberline {A}SolidWorks 2D Drawings}{47}{appendix.A}%
+\contentsline {chapter}{\numberline {B}MATLAB Scripts}{48}{appendix.B}%
+\contentsline {section}{\numberline {B.1}CNC Spindle Speed-Loop Control Design}{48}{section.B.1}%
+\contentsline {section}{\numberline {B.2}CNC Milling Spindle -- PLC Supervisory Interlock Simulation}{53}{section.B.2}%
+\contentsline {chapter}{\numberline {C}MATLAB/Simulink Block Diagrams}{67}{appendix.C}%

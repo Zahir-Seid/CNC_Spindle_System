@@ -1,0 +1,26 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Overall methodology: from design requirements to validated results.}}{11}{figure.caption.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overhung-load free body diagram and shear/bending-moment diagram for the spindle shaft.}}{20}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces BT30 spindle/drawbar assembly, modeled in SolidWorks.}}{27}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Beam finite-element result: bending stress distribution under the peak cutting load case. Peak bending stress occurs at the front bearing seat, matching the closed-form calculation of Section~\ref {sec:shaft_design}.}}{28}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Beam finite-element result: transverse deflection along the shaft, checked against the 0.02~mm runout tolerance at the BT30 taper.}}{29}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces AC servo motor equivalent circuit and torque-speed curve.}}{30}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Power electronics drive architecture: rectifier -- DC link -- inverter -- motor.}}{31}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces SPWM carrier/reference comparison and resulting switched voltage waveform.}}{32}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Closed-loop PID speed control block diagram.}}{34}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Stateflow/PLC logic diagram for the tool-change safety interlock.}}{35}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Simulated SPWM carrier/reference intersection and resulting switched voltage waveform.}}{37}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Root locus of the PID-shaped open loop, gain $K$ swept from 0 to 10; the design point ($K=K_d$) is marked with a red star at the target dominant poles.}}{38}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Open-loop Bode plot with stability margins: infinite gain margin, $109^\circ $ phase margin at 266~rad/s.}}{38}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Closed-loop step response to a commanded speed change.}}{39}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Speed dip and recovery under a step cutting-torque disturbance (peak cutting torque, Section~\ref {sec:peak_force_torque}) applied at $t=0$ on this axis.}}{39}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Spindle speed and cylinder command timelines with and without PLC supervisory interlocking.}}{41}{figure.caption.40}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces SolidWorks 2D engineering drawing.}}{47}{figure.caption.42}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces MATLAB/Simulink block diagram.}}{67}{figure.caption.43}%
